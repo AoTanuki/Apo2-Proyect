@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.1" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Mundo.PrincipalJuego" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/PrincipalJuego.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="362" y="492"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Mundo.NoEncontradoExcepcion" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/NoEncontradoExcepcion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="262" y="159"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Mundo.Personajes.MonstruoJefe" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Personajes/MonstruoJefe.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="855" y="802"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Mundo.Personajes.Animacion" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Personajes/Animacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="153" x="1963" y="806"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Mundo.Personajes.Personaje" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Personajes/Personaje.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="765" width="528" x="1963" y="-426"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Mundo.Personajes.PersonajePrincipal" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Personajes/PersonajePrincipal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="899" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Mundo.Personajes.Frame" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Personajes/Frame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2301" y="985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Mundo.Personajes.PersonajeMonstruo" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Personajes/PersonajeMonstruo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1545" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Mundo.Personajes.MonstruoNormal" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Personajes/MonstruoNormal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1334" y="800"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Mundo.Puntuaciones.SinPuntajesExcepcion" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Puntuaciones/SinPuntajesExcepcion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="164" y="771"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Mundo.Puntuaciones.ArbolPuntuacion" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Puntuaciones/ArbolPuntuacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="366" y="918"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Mundo.Puntuaciones.Nodo" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Puntuaciones/Nodo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="100" y="1196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Mundo.Puntuaciones.Puntuacion" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Puntuaciones/Puntuacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="455" y="1479"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="Mundo.Interfaces.Caminar" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Interfaces/Caminar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1032" y="1195"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="15" language="java" name="Mundo.Interfaces.Agresion" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Interfaces/Agresion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1476" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="16" language="java" name="Mundo.Interfaces.Girar" project="Arcuz_ Behind the dark" 
+    file="/Arcuz_ Behind the dark/src/Mundo/Interfaces/Girar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="787" y="1066"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="17">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="18" name="arbolPuntuaciones"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="21" name="anterior"/>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <bendpoint x="1951" y="379"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="24" name="caminarHaciaArriba"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="27">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="28" name="animacionMuerte"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="31" name="puntuacion"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="2035" y="379"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="34" name="animacionAtacarIzquierda"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="37">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="38" name="izquierda"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <bendpoint x="629" y="222"/>    
+    <bendpoint x="1222" y="237"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="41" name="monstruos"/>      
+      <multiplicity id="42" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <bendpoint x="2146" y="379"/>    
+    <bendpoint x="2292" y="717"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="44" name="frameActual"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <bendpoint x="2014" y="379"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="47" name="caminarHaciaIzquierda"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="50" name="siguiente"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="53" name="ultimo"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="55">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </realization>  
+  <association id="56">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="57" name="puntuacionesOrdenadas"/>      
+      <multiplicity id="58" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="59">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="60">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="61" name="primero"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <bendpoint x="1930" y="379"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="64" name="caminarHaciaAbajo"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="67" name="gladiador"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <bendpoint x="561" y="778"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="70" name="jefe"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <bendpoint x="1993" y="379"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="73" name="caminarHaciaDerecha"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="75">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="76">    
+    <bendpoint x="1972" y="379"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="77" name="animacionAtacarDerecha"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="80">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="82">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="83" name="derecha"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="85">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="86">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="87" name="raiz"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

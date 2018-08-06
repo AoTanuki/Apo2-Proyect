@@ -1,0 +1,17 @@
+#Personaje Principal
+#Frames: carpeta:
+./data/Frames/personaje/
+#CaminarHaciaAbajo:
+PersonajeAbajo1.png,PersonajeAbajo2.png,PersonajeAbajo3.png
+#CaminarHaciaArriba:
+PersonajeArriba1.png,PersonajeArriba3.png,PersonajeArriba3.png
+#caminarHaciaDerecha:
+PersonajeDerecha1.png,PersonajeDerecha2.png,PersonajeDerecha3.png
+#CaminarHaciaIzquierda:
+PersonajeIzquierda1.png,PersonajeIzquierda2.png,PersonajeIzquierda3.png
+#Muerto:
+PersonajeMuerto1.png,PersonajeMuerto2.png
+#AtaqueDerecha:
+PersonajeAtaqueDerecha1.png,PersonajeAtaqueDerecha2.png
+#AtaqueIzquierda:
+PersonajeAtaqueIzquierda1.png,PersonajeAtaqueIzquierda2.png

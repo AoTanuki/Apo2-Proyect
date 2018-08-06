@@ -1,0 +1,61 @@
+#nivel:
+1
+#Frames: carpetaMovimiento:
+./data/Frames/Monstruos/Movimientos/
+#CaminarHaciaAbajo:
+monstruo1Abajo1.png,monstruo1Abajo2.png,monstruo1Abajo3.png
+#CaminarHaciaArriba:
+monstruo1Arriba1.png,monstruo1Arriba2.png,monstruo1Arriba3.png
+#caminarHaciaDerecha:
+monstruo1Derecha1.png,monstruo1Derecha2.png,monstruo1Derecha3.png
+#CaminarHaciaIzquierda:
+monstruo1Izquierda1.png,monstruo1Izquierda2.png,monstruo1Izquierda3.png
+#nivel:
+2
+#Frames: carpetaMovimiento:
+./data/Frames/Monstruos/Movimientos/
+#CaminarHaciaAbajo:
+monstruo2Abajo1.png,monstruo2Abajo2.png,monstruo2Abajo3.png
+#CaminarHaciaArriba:
+monstruo2Arriba1.png,monstruo2Arriba2.png,monstruo2Arriba3.png
+#caminarHaciaDerecha:
+monstruo2Derecha1.png,monstruo2Derecha2.png,monstruo2Derecha3.png
+#CaminarHaciaIzquierda:
+monstruo2Izquierda1.png,monstruo2Izquierda2.png,monstruo2Izquierda3.png
+#nivel:
+3
+#Frames: carpetaMovimiento:
+./data/Frames/Monstruos/Movimientos/
+#CaminarHaciaAbajo:
+monstruo3Abajo1.png,monstruo3Abajo2.png,monstruo3Abajo3.png
+#CaminarHaciaArriba:
+monstruo3Arriba1.png,monstruo3Arriba2.png,monstruo3Arriba3.png
+#caminarHaciaDerecha:
+monstruo3Derecha1.png,monstruo3Derecha2.png,monstruo3Derecha3.png
+#CaminarHaciaIzquierda:
+monstruo3Izquierda1.png,monstruo3Izquierda2.png,monstruo3Izquierda3.png
+#nivel:
+4
+#Frames: carpetaMovimiento:
+./data/Frames/Monstruos/Movimientos/
+#CaminarHaciaAbajo:
+monstruo4Abajo1.png,monstruo4Abajo2.png,monstruo4Abajo3.png
+#CaminarHaciaArriba:
+monstruo4Arriba1.png,monstruo4Arriba2.png,monstruo4Arriba3.png
+#caminarHaciaDerecha:
+monstruo4Derecha1.png,monstruo4Derecha2.png,monstruo4Derecha3.png
+#CaminarHaciaIzquierda:
+monstruo4Izquierda1.png,monstruo4Izquierda2.png,monstruo4Izquierda3.png
+#nivel:
+5
+#Frames: carpetaMovimiento:
+./data/Frames/Monstruos/Movimientos/
+#CaminarHaciaAbajo:
+JefeAbajo1.png,JefeAbajo2.png,JefeAbajo3.png
+#CaminarHaciaArriba:
+JefeArriba1.png,JefeArriba2.png,JefeArriba3.png
+#caminarHaciaDerecha:
+JefeDerecha1.png,JefeDerecha2.png,JefeDerecha3.png
+#CaminarHaciaIzquierda:
+JefeIzquierda1.png,JefeIzquierda2.png,JefeIzquierda3.png
+
